@@ -10,8 +10,8 @@
 
 :rabbit: [문자열(string)](./string.md)
 
-[숫자(number)](./number.md)
+:baby_chick: [숫자(number)](./number.md)
 
-[변수(variable)](./variable.md)
+:carrot: [변수(variable)](./variable.md)
 
-[go to main](../README.md)
+:house: [go to main](../README.md)

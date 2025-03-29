@@ -41,4 +41,27 @@ Traceback (most recent call last):
 IndexError: string index out of range
 ```
 
+#### 문자열 범위 선택 연산자(슬라이싱) [:]
+- 문자열 내 특정 위치의 문자 선택 시 사용 (마지막 숫자 미포함)
+``` python
+# 인덱스 1번부터 (4-1)번까지 문자 선택
+>>> print("hello"[1:4])
+ell
+```
+- 대괄호 내 뒤의 숫자 생략 시, "가장 최대 위치(마지막 글자)" 까지
+  대괄호 내 앞의 숫자 생략 시, "가장 앞쪽 위치(첫 번째 글자)" 부터 지정
+``` python
+>>> print("hello"[1:])
+ello
+>>> print("hello"[:3])
+hel
+```
+
+### 문자열 길이 구하기
+- len()
+``` python
+>>> print(len("hello"))
+5
+```
+
 [go to main](../README.md)

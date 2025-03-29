@@ -8,7 +8,7 @@
 - type()
 
 
-[문자열(string)](./string.md)
+:rabbit: [문자열(string)](./string.md)
 
 [숫자(number)](./number.md)
 

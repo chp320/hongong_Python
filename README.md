@@ -1,4 +1,4 @@
-# test
-[this is a test] (chap2/README.md)
+# 혼공 파이썬
 
-[test] chap2/README.md
+[chapter2](chap2/README.md)
+

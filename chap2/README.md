@@ -41,3 +41,4 @@ Traceback (most recent call last):
 IndexError: string index out of range
 ```
 
+[go to main](../README.md)

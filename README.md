@@ -1,2 +1,2 @@
 # test
-[this is a test] (chap02/README.md)
+[this is a test] (chap2#readme)

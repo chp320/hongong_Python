@@ -58,6 +58,7 @@ hello
 - 문자열을 숫자로 변환 시 다음의 함수를 사용
   - int() 함수: 문자열을 int 자료형(정수) 으로 변환
   - float() 함수: 문자열을 float 자료형(실수형) 으로 변환
+:warning: 만약 정수/실수/부동 소수점 구분이 어려운 경우, 포괄적으로 float() 함수를 사용하자. (float() 가 포괄하는 개념)
 
 
 :house: [go to chapter2's main](./README.md)

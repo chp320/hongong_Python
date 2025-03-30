@@ -8,10 +8,10 @@
 - type()
 
 
-:rabbit: [문자열(string)](./string.md)
+:rabbit: [1. 문자열(string)](./string.md)
 
-:baby_chick: [숫자(number)](./number.md)
+:baby_chick: [2. 숫자(number)](./number.md)
 
-:carrot: [변수(variable)](./variable.md)
+:carrot: [3. 변수(variable)](./variable.md)
 
 :house: [go to main](../README.md)

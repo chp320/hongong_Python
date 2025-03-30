@@ -14,4 +14,6 @@
 
 :carrot: [3. 변수(variable)](./variable.md)
 
+:horse_face: [4. 문자열/숫자의 다양한 기능](./functions.md)]
+
 :house: [go to main](../README.md)

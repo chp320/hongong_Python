@@ -61,4 +61,7 @@ hello
 :warning: 만약 정수/실수/부동 소수점 구분이 어려운 경우, 포괄적으로 float() 함수를 사용하자. (float() 가 포괄하는 개념)
 
 
+### (형변환) 숫자를 문자열로 바꾸기
+- str() 함수를 사용해서 '숫자를 문자열'로 변환
+
 :house: [go to chapter2's main](./README.md)
